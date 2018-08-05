@@ -1,0 +1,62 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "Protetor",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "sinistro demais indico",
+      "id": 5
+    },
+    {
+      "name": "O vingador",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "show",
+      "id": 6
+    },
+    {
+      "id": 8,
+      "name": "Alexandro o grande2",
+      "status": "watching",
+      "genre": "Ação",
+      "comments": "foda ele em...putz"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
